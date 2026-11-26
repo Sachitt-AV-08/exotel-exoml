@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response><Say voice="alice" language="en-IN">Hello. This is a test call from Sampark. If you can hear this message, the Exotel voice integration is working.</Say><Pause length="1"/><Hangup/></Response>
